@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "kafkajs": "^2.2.4",
+    "yarn": "^1.22.19"
+  },
+  "name": "kafka-producer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/kafkajs": "^1.9.0"
+  }
+}
